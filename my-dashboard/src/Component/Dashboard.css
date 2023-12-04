@@ -1,0 +1,19 @@
+table{
+    width:100%;
+    border:1px solid black;
+    border-radius: 1px;
+    background-image: url('https://img.freepik.com/premium-vector/white-background-gradient-abstract-design-modern_343694-3049.jpg');   
+}
+
+th,td,tbody{
+    border:1px solid black;
+    border-radius: 1px;
+    background-image: url('https://img.freepik.com/premium-vector/white-background-gradient-abstract-design-modern_343694-3049.jpg');
+}
+.App-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    height:50%;
+}
